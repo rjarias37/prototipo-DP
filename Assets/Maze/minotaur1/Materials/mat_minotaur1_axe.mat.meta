@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3de3da2f80336d49bfabcedf9b52994
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196863
+  packageName: minotaur1
+  packageVersion: 1.0
+  assetPath: Assets/minotaur1/Materials/mat_minotaur1_axe.mat
+  uploadId: 464611

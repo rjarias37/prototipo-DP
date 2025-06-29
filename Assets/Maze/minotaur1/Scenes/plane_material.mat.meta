@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ed42ef80601beb479ebb54b2c1af56a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196863
+  packageName: minotaur1
+  packageVersion: 1.0
+  assetPath: Assets/minotaur1/Scenes/plane_material.mat
+  uploadId: 464611
