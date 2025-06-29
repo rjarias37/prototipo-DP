@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ada778ca2bc56f4e99439053c984126
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196863
+  packageName: minotaur1
+  packageVersion: 1.0
+  assetPath: Assets/minotaur1/minotaur1 Animator Controller.controller
+  uploadId: 464611

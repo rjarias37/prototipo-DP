@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39d65438971820d438e1a168785036aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196863
+  packageName: minotaur1
+  packageVersion: 1.0
+  assetPath: Assets/minotaur1/Materials/mat_minotaur1_body.mat
+  uploadId: 464611
