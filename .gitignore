@@ -22,3 +22,4 @@ MemoryCaptures/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+.vs/
