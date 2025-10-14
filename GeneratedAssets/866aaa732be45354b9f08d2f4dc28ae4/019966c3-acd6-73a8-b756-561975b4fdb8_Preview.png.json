@@ -1,0 +1,11 @@
+{
+    "asset": "866aaa732be45354b9f08d2f4dc28ae4",
+    "fileName": "019966c3-acd6-73a8-b756-561975b4fdb8_Preview.png",
+    "prompt": "stone with rock",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1804823368,
+    "w3CTraceId": "753de928461f1356418fb2aedf2f3708",
+    "refinementMode": "Generation"
+}

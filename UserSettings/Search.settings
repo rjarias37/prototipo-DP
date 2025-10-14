@@ -9,10 +9,17 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"picker_window_position_offset.075BCD15" = "-24;126;320;550"
+	"picker_window_position_offset.075BCD15" = "-847;-165;794;550"
 	"picker_visibility_flags.075BCD15" = "264"
-	"picker_item_size.075BCD15" = "96"
+	"picker_item_size.075BCD15" = "128"
 	"picker_inspector.075BCD15" = "0"
+	"last_search.66F56946" = "Gaia "
+	"OpenInspectorPreview.66F56946" = "0"
+	"currentGroup.66F56946" = "asset"
+	"picker_window_position_offset.00000000" = "-1211;113;794;550"
+	"picker_visibility_flags.00000000" = "0"
+	"picker_item_size.00000000" = "1"
+	"picker_inspector.00000000" = "0"
 }
 providers = {
 	asset = {
@@ -65,10 +72,29 @@ providers = {
 		priority = 210
 		defaultAction = null
 	}
+	"unity.ai.file.search" = {
+		active = true
+		priority = 85
+		defaultAction = null
+	}
+	"unity.ai.pattern.search" = {
+		active = true
+		priority = 80
+		defaultAction = null
+	}
 }
 objectSelectors = {
 }
 recentSearches = [
+	"Gaia "
+	"Gaia"
+	"world desig"
+	"world"
+	"build profile"
+	"inp"
+	"GetKeyDown"
+	""
+	"[LegacyInput] Total coincidencias: 7. Reemplaza por el nuevo Input System. UnityEngine.Debug:LogWarning (object) LegacyInputScanner:Scan () (at Assets/Game/Tool/Editor/LegacyInputScanner.cs:33) "
 ]
 searchItemFavorites = [
 ]
@@ -83,3 +109,4 @@ helperWidgetCurrentArea = "all"
 disabledIndexers = ""
 minIndexVariations = 2
 findProviderIndexHelper = true
+itemIconSize = 128
